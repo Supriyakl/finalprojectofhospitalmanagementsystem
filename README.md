@@ -1,6 +1,6 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Supriyakl%20r-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Supriyakl%20-red)
 ---
 ## screenshots
 ### Homepage
